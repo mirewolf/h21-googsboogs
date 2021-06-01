@@ -1,11 +1,11 @@
 import { Fragment } from "react";
 
-export const Saved = () => {
+export const Search = () => {
   return (
     <Fragment>
-      <h1>Saved Page</h1>
+      <h1>Search Page</h1>
     </Fragment>
   );
 };
 
-export default Saved;
+export default Search;
